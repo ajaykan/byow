@@ -1,6 +1,6 @@
 # Build your own world
 
-Data structures final project
+Data Structures (61B) final project
 
 - `Core`: essential files
     - `Main.java`: file to process video game commands
